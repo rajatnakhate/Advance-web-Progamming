@@ -1,0 +1,22 @@
+HTML 5:Elements ,Objects ,Events ,Canvas,Audio & Video Support,Geo-location Support
+
+CSS: Styling HTML with CSS,Inline Styling (Inline CSS),External Styling (External CSS),
+CSS Fonts,The CSS Box Model,The id Attribute,The class Attribute,HTML Style Tags,
+
+PHP: Introduction to PHP,Working with arrays,Functions,Forms,Handling date and Times,
+Working with Files,Session and state management,Database operations from PHP.
+
+XML & Web Security :XML:Introduction to XML,XML Validation,Reason for XML,XML Tree Structure,
+XML DOM,XML DTD,XML Schema, XML style language,XML and XSLT,XML Parsing,XML parsers (DOM & SAX),
+XML WSDL,RSS Feed, Web Security:SQL Injection, Cross-Site Scripting (XSS), Security standards (OWASP),
+
+AJAX: Introduction to Ajax,Web services and Ajax,Ajax using HTML, CSS, JavaScript,
+Ajax Framework and DOM,XMLHttpRequest,Ajax Architecture,
+
+JSON: Introduction,Need of JSON, JSON Syntax Rules,JSON Data - a Name and a Value,JSON Objects,
+JSON Arrays,JSON Uses JavaScript Syntax,JSON Files,JSON & Security Concerns.
+
+Responsive Web Design: Introduction,The Best Experience for All Users:Desktop,Tablet, 
+
+Mobile Bootstrap :Overview of Bootstrap,Need to use Bootstrap,Bootstrap Grid System, Grid Classes, 
+Basic Structure of a Bootstrap Grid,Typography,Tables, Images, Jumbotron, Wells, Alerts, Buttons.
