@@ -1,0 +1,15 @@
+.page{
+    display:flex; align-items: center;justify-content: center;
+    background-image: url("pic1.jpg");
+     background-repeat: no-repeat;
+}
+
+
+
+.mainbox{
+ border:1px solid black;
+ margin:50px; padding:50px;
+    border-radius: 5%;
+    display:flex; flex-direction: column;
+    background-color: rgba(230, 221, 230,0.5);
+}
